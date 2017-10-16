@@ -24,6 +24,7 @@
 1. 从项目里面复制正确的代码
 2. 删除多余的文件
 3. 改 `.cpp` 后缀为 `.c`
+4. 确保你所有代码都是 unicode without bom （65001） 或者 gbk （936） 编码
 
 ![](6.png)
 ![](7.png)
@@ -36,10 +37,10 @@
 ![](8.png)
 ![](9.png)
 
-# 一次作业一个 project
+## 一次作业一个 project
 
 ![](10.png)
 
 
-
+## 给我自己看的 visual studio project template and item template
 
